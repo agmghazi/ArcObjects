@@ -1,0 +1,5 @@
+D:\Applications\ArcObjects\TestButton\createPolygonFeature\bin\Debug\createPolygonFeature.dll
+D:\Applications\ArcObjects\TestButton\createPolygonFeature\bin\Debug\createPolygonFeature.pdb
+D:\Applications\ArcObjects\TestButton\createPolygonFeature\obj\Debug\createPolygonFeature.dll
+D:\Applications\ArcObjects\TestButton\createPolygonFeature\obj\Debug\createPolygonFeature.pdb
+D:\Applications\ArcObjects\TestButton\createPolygonFeature\bin\Debug\createPolygonFeature.esriAddIn
