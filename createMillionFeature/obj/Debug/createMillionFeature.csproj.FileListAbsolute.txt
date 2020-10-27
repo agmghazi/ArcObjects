@@ -1,0 +1,5 @@
+D:\Applications\ArcObjects\TestButton\createMillionFeature\bin\Debug\createMillionFeature.dll
+D:\Applications\ArcObjects\TestButton\createMillionFeature\bin\Debug\createMillionFeature.pdb
+D:\Applications\ArcObjects\TestButton\createMillionFeature\obj\Debug\createMillionFeature.dll
+D:\Applications\ArcObjects\TestButton\createMillionFeature\obj\Debug\createMillionFeature.pdb
+D:\Applications\ArcObjects\TestButton\createMillionFeature\bin\Debug\createMillionFeature.esriAddIn
