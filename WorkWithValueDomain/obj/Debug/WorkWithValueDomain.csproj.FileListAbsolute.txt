@@ -1,0 +1,5 @@
+D:\Applications\ArcObjects\TestButton\WorkWithValueDomain\bin\Debug\WorkWithValueDomain.dll
+D:\Applications\ArcObjects\TestButton\WorkWithValueDomain\bin\Debug\WorkWithValueDomain.pdb
+D:\Applications\ArcObjects\TestButton\WorkWithValueDomain\obj\Debug\WorkWithValueDomain.dll
+D:\Applications\ArcObjects\TestButton\WorkWithValueDomain\obj\Debug\WorkWithValueDomain.pdb
+D:\Applications\ArcObjects\TestButton\WorkWithValueDomain\bin\Debug\WorkWithValueDomain.esriAddIn
