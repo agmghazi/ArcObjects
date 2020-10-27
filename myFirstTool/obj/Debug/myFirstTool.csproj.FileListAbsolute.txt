@@ -1,0 +1,5 @@
+D:\Applications\ArcObjects\TestButton\myFirstTool\bin\Debug\myFirstTool.dll
+D:\Applications\ArcObjects\TestButton\myFirstTool\bin\Debug\myFirstTool.pdb
+D:\Applications\ArcObjects\TestButton\myFirstTool\obj\Debug\myFirstTool.dll
+D:\Applications\ArcObjects\TestButton\myFirstTool\obj\Debug\myFirstTool.pdb
+D:\Applications\ArcObjects\TestButton\myFirstTool\bin\Debug\myFirstTool.esriAddIn
