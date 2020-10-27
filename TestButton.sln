@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myFirstTool", "myFirstTool\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePointFeature", "CreatePointFeature\CreatePointFeature.csproj", "{9737442A-EC45-46E7-9250-EAF49039E20D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateLineFeature", "CreateLineFeature\CreateLineFeature.csproj", "{BFA31E94-C6B2-41EA-9AE7-26EECF291E03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9737442A-EC45-46E7-9250-EAF49039E20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9737442A-EC45-46E7-9250-EAF49039E20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9737442A-EC45-46E7-9250-EAF49039E20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA31E94-C6B2-41EA-9AE7-26EECF291E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA31E94-C6B2-41EA-9AE7-26EECF291E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA31E94-C6B2-41EA-9AE7-26EECF291E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA31E94-C6B2-41EA-9AE7-26EECF291E03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+D:\Applications\ArcObjects\TestButton\CreateLineFeature\bin\Debug\CreateLineFeature.dll
+D:\Applications\ArcObjects\TestButton\CreateLineFeature\bin\Debug\CreateLineFeature.pdb
+D:\Applications\ArcObjects\TestButton\CreateLineFeature\obj\Debug\CreateLineFeature.dll
+D:\Applications\ArcObjects\TestButton\CreateLineFeature\obj\Debug\CreateLineFeature.pdb
+D:\Applications\ArcObjects\TestButton\CreateLineFeature\bin\Debug\CreateLineFeature.esriAddIn
