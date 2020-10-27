@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestButton", "TestButton\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myFirstTool", "myFirstTool\myFirstTool.csproj", "{DFBBC355-737E-47CF-9A70-E3F332B56EFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePointFeature", "CreatePointFeature\CreatePointFeature.csproj", "{9737442A-EC45-46E7-9250-EAF49039E20D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DFBBC355-737E-47CF-9A70-E3F332B56EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFBBC355-737E-47CF-9A70-E3F332B56EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFBBC355-737E-47CF-9A70-E3F332B56EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9737442A-EC45-46E7-9250-EAF49039E20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9737442A-EC45-46E7-9250-EAF49039E20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9737442A-EC45-46E7-9250-EAF49039E20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9737442A-EC45-46E7-9250-EAF49039E20D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

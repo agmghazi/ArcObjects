@@ -1,0 +1,5 @@
+D:\Applications\ArcObjects\TestButton\CreatePointFeature\bin\Debug\CreatePointFeature.dll
+D:\Applications\ArcObjects\TestButton\CreatePointFeature\bin\Debug\CreatePointFeature.pdb
+D:\Applications\ArcObjects\TestButton\CreatePointFeature\obj\Debug\CreatePointFeature.dll
+D:\Applications\ArcObjects\TestButton\CreatePointFeature\obj\Debug\CreatePointFeature.pdb
+D:\Applications\ArcObjects\TestButton\CreatePointFeature\bin\Debug\CreatePointFeature.esriAddIn
