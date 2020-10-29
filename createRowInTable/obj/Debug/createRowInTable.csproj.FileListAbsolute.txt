@@ -1,0 +1,5 @@
+D:\Applications\ArcObjects\TestButton\createRowInTable\bin\Debug\createRowInTable.dll
+D:\Applications\ArcObjects\TestButton\createRowInTable\bin\Debug\createRowInTable.pdb
+D:\Applications\ArcObjects\TestButton\createRowInTable\obj\Debug\createRowInTable.dll
+D:\Applications\ArcObjects\TestButton\createRowInTable\obj\Debug\createRowInTable.pdb
+D:\Applications\ArcObjects\TestButton\createRowInTable\bin\Debug\createRowInTable.esriAddIn
